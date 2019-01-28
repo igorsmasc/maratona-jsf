@@ -1,17 +1,14 @@
-package bean.estudante;
+package br.com.maratonajsf.model;
 
-//import javax.faces.bean.ManagedBean;
-import javax.inject.Named;
-import java.io.Serializable;
+import br.com.maratonajsf.model.enums.Turno;
 
-//@ManagedBean essa notação será depreciada
-@Named //Gerenciado pelo CDI -- // CDI - O container(Wildfly) vai instanciar a classe
-public class EstudanteRegistrarBean implements Serializable {
+public class Estudante {
     private String nome = "Igor";
     private String sobrenome = "Santos";
     private double nota1;
     private double nota2;
     private double nota3 = 10;
+    private Turno turno = Turno.MATUTINO;
 
     public String getNome() {
         return nome;
@@ -51,5 +48,13 @@ public class EstudanteRegistrarBean implements Serializable {
 
     public void setNota3(double nota3) {
         this.nota3 = nota3;
+    }
+
+    public Turno getTurno() {
+        return turno;
+    }
+
+    public void setTurno(Turno turno) {
+        this.turno = turno;
     }
 }
