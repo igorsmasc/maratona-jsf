@@ -8,7 +8,23 @@
 
 
       <h:outputLabel value="Hello, world"/><br/>
-      <h:outputLabel value="#{estudanteRegistrarBean.nome}"></h:outputLabel>
+      <h:outputLabel value="#{estudanteRegistrarBean.nome}"></h:outputLabel><br/>
+      <h:outputText value="Comparacao notas"></h:outputText><br/>
+      <h:outputLabel value="#{estudanteRegistrarBean.nota1 eq estudanteRegistrarBean.nota2}"></h:outputLabel><br/>
+      <h:outputLabel value="#{estudanteRegistrarBean.nota1 eq estudanteRegistrarBean.nota2 and estudanteRegistrarBean.nome.equals('Igor')}"></h:outputLabel><br/>
+      <h:outputLabel value="#{estudanteRegistrarBean.nota1 lt estudanteRegistrarBean.nota2}"></h:outputLabel><br/> <!-- lt - less than -->
+      <h:outputLabel value="#{estudanteRegistrarBean.nota1 le estudanteRegistrarBean.nota2}"></h:outputLabel><br/> <!-- lt - less equal -->
+      <h:outputLabel value="#{estudanteRegistrarBean.nota1 eq 0 ? 'ZERO' : 'NÃO ZERO' }"></h:outputLabel><br/> <!-- Op Ternária -->
+      <h:outputLabel value="#{estudanteRegistrarBean.nota1 = 20}"></h:outputLabel><br/> <!-- Altera apenas na view -->
+      <h:outputLabel value="#{estudanteRegistrarBean.nota1}"></h:outputLabel><br/> <!--  -->
+      <h:outputLabel value="#{estudanteRegistrarBean.nome += ' mais alguma coisa'}"></h:outputLabel><br/> <!-- Concatenar - Altera apenas na view -->
+
+      <!-- Palavras reservadas: and, or, not, eq, ne, lt, gt, le, ge, true, false
+       null, instanceof, empty, div e mod
+       -->
+
+
+
 
 
 </html>
