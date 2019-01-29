@@ -4,7 +4,7 @@ import br.com.maratonajsf.model.enums.Turno;
 
 public class Estudante {
     private String nome = "Igor";
-    private String sobrenome = "Santos";
+    private String sobrenome = "Santos Mascarenhas";
     private double nota1 = 8;
     private double nota2 = 10;
     private double nota3 = 10;

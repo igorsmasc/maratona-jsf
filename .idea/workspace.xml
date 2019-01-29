@@ -7,6 +7,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="174aed73-1ae9-4391-9fc3-234c19598888" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/maratona-jsf.war/WEB-INF/classes/br/com/maratonajsf/bean/estudante/EstudanteRegistrarBean.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/maratona-jsf.war/WEB-INF/classes/br/com/maratonajsf/bean/estudante/EstudanteRegistrarBean.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/maratona-jsf.war/WEB-INF/classes/br/com/maratonajsf/model/Estudante.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/maratona-jsf.war/WEB-INF/classes/br/com/maratonajsf/model/Estudante.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/maratona-jsf.war/index.xhtml" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/maratona-jsf.war/index.xhtml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/br/com/maratonajsf/bean/estudante/EstudanteRegistrarBean.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/br/com/maratonajsf/bean/estudante/EstudanteRegistrarBean.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/br/com/maratonajsf/model/Estudante.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/br/com/maratonajsf/model/Estudante.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/br/com/maratonajsf/bean/estudante/EstudanteRegistrarBean.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/br/com/maratonajsf/bean/estudante/EstudanteRegistrarBean.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/br/com/maratonajsf/model/Estudante.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/br/com/maratonajsf/model/Estudante.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/web/index.xhtml" beforeDir="false" afterPath="$PROJECT_DIR$/web/index.xhtml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -22,7 +30,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="936">
+            <state relative-caret-position="437">
               <caret line="39" column="19" selection-start-line="39" selection-start-column="19" selection-end-line="39" selection-end-column="19" />
             </state>
           </provider>
@@ -31,8 +39,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/web/index.xhtml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="495">
-              <caret line="83" column="77" selection-start-line="83" selection-start-column="77" selection-end-line="83" selection-end-column="77" />
+            <state relative-caret-position="296">
+              <caret line="124" column="26" selection-start-line="124" selection-start-column="26" selection-end-line="124" selection-end-column="26" />
             </state>
           </provider>
         </entry>
@@ -41,7 +49,7 @@
         <entry file="file://$PROJECT_DIR$/web/index2.xhtml">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="216">
-              <caret line="9" column="9" lean-forward="true" selection-start-line="9" selection-start-column="9" selection-end-line="9" selection-end-column="9" />
+              <caret line="9" column="9" selection-start-line="9" selection-start-column="9" selection-end-line="9" selection-end-column="9" />
             </state>
           </provider>
         </entry>
@@ -49,10 +57,14 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/br/com/maratonajsf/bean/estudante/EstudanteRegistrarBean.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="312">
-              <caret line="49" column="42" selection-start-line="49" selection-start-column="42" selection-end-line="49" selection-end-column="42" />
+            <state relative-caret-position="53">
+              <caret line="77" column="30" selection-start-line="77" selection-start-column="30" selection-end-line="77" selection-end-column="30" />
               <folding>
                 <element signature="imports" expanded="true" />
+                <element signature="e#2183#2184#0" expanded="true" />
+                <element signature="e#2217#2218#0" expanded="true" />
+                <element signature="e#2272#2273#0" expanded="true" />
+                <element signature="e#2318#2319#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -61,8 +73,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/br/com/maratonajsf/model/Estudante.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret column="33" selection-start-column="33" selection-end-column="33" />
+            <state relative-caret-position="144">
+              <caret line="6" column="50" selection-start-line="6" selection-start-column="50" selection-end-line="6" selection-end-column="50" />
             </state>
           </provider>
         </entry>
@@ -106,8 +118,8 @@
         <option value="$PROJECT_DIR$/src/main/java/br/com/maratonajsf/enums/Turno.java" />
         <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/src/main/java/br/com/maratonajsf/model/enums/Turno.java" />
-        <option value="$PROJECT_DIR$/src/main/java/br/com/maratonajsf/model/Estudante.java" />
         <option value="$PROJECT_DIR$/web/WEB-INF/index2.xhtml" />
+        <option value="$PROJECT_DIR$/src/main/java/br/com/maratonajsf/model/Estudante.java" />
         <option value="$PROJECT_DIR$/src/main/java/br/com/maratonajsf/bean/estudante/EstudanteRegistrarBean.java" />
         <option value="$PROJECT_DIR$/web/index.xhtml" />
       </list>
@@ -120,9 +132,9 @@
       </MavenImportingSettings>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
-    <option name="x" value="9" />
-    <option name="y" value="-17" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-62" />
+    <option name="y" value="-26" />
     <option name="width" value="1296" />
     <option name="height" value="1000" />
   </component>
@@ -168,7 +180,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1548796800796" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1548801768844" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="project.structure.last.edited" value="Artifacts" />
@@ -283,12 +295,12 @@
       <workItem from="1548728465051" duration="1786000" />
       <workItem from="1548730285367" duration="109000" />
       <workItem from="1548730425825" duration="1024000" />
-      <workItem from="1548787709727" duration="3042000" />
+      <workItem from="1548787709727" duration="5784000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="10563000" />
+    <option name="totallyTimeSpent" value="13305000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -381,20 +393,6 @@
     <option name="version" value="1" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="936">
-          <caret line="39" column="19" selection-start-line="39" selection-start-column="19" selection-end-line="39" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/br/com/maratonajsf/model/Estudante.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="33" selection-start-column="33" selection-end-column="33" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/br/com/maratonajsf/model/enums/Turno.java">
       <provider selected="true" editor-type-id="text-editor">
         <state>
@@ -409,27 +407,45 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/web/index2.xhtml">
+    <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="216">
-          <caret line="9" column="9" lean-forward="true" selection-start-line="9" selection-start-column="9" selection-end-line="9" selection-end-column="9" />
+        <state relative-caret-position="437">
+          <caret line="39" column="19" selection-start-line="39" selection-start-column="19" selection-end-line="39" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/br/com/maratonajsf/model/Estudante.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="6" column="50" selection-start-line="6" selection-start-column="50" selection-end-line="6" selection-end-column="50" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/br/com/maratonajsf/bean/estudante/EstudanteRegistrarBean.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="312">
-          <caret line="49" column="42" selection-start-line="49" selection-start-column="42" selection-end-line="49" selection-end-column="42" />
+        <state relative-caret-position="53">
+          <caret line="77" column="30" selection-start-line="77" selection-start-column="30" selection-end-line="77" selection-end-column="30" />
           <folding>
             <element signature="imports" expanded="true" />
+            <element signature="e#2183#2184#0" expanded="true" />
+            <element signature="e#2217#2218#0" expanded="true" />
+            <element signature="e#2272#2273#0" expanded="true" />
+            <element signature="e#2318#2319#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/index2.xhtml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="9" column="9" selection-start-line="9" selection-start-column="9" selection-end-line="9" selection-end-column="9" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/web/index.xhtml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="495">
-          <caret line="83" column="77" selection-start-line="83" selection-start-column="77" selection-end-line="83" selection-end-column="77" />
+        <state relative-caret-position="296">
+          <caret line="124" column="26" selection-start-line="124" selection-start-column="26" selection-end-line="124" selection-end-column="26" />
         </state>
       </provider>
     </entry>
