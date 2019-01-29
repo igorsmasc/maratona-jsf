@@ -2,11 +2,8 @@ package br.com.maratonajsf.bean.estudante;
 
 //import javax.faces.bean.ManagedBean;
 import br.com.maratonajsf.model.Estudante;
-import com.sun.org.apache.xpath.internal.SourceTree;
-import jdk.management.resource.internal.inst.SocketOutputStreamRMHooks;
 
 import javax.inject.Named;
-import javax.swing.plaf.basic.BasicInternalFrameTitlePane;
 import java.io.Serializable;
 import java.util.*;
 
@@ -27,10 +24,33 @@ public class EstudanteRegistrarBean implements Serializable {
         nomesMap.put("Seja", " melhor");
         nomesMap.put("Lute", " pra vencer");
 
-        for (Map.Entry<String, String > entry : nomesMap.entrySet()){
-            System.out.println(entry.getKey());
-            System.out.println(entry.getValue());
+ //       for (Map.Entry<String, String > entry : nomesMap.entrySet()){
+ //           System.out.println(entry.getKey());
+ //           System.out.println(entry.getValue());
+ //   }
     }
+
+    public void executar(){
+        System.out.println("Fazendo uma busca no BD");
+        System.out.println("Processando os dados");
+        System.out.println("Exibindo os dados");
+
+    }
+    public void executar(String param){
+        System.out.println("Fazendo uma busca no BD com o PARAMETRO" + param);
+        System.out.println("Processando os dados");
+        System.out.println("Exibindo os dados");
+
+    }
+    public String executarRetorno(String param){
+        return "Retornando param" +param;
+
+    }
+
+    //?faces-redirect=true - alterar a url
+    public String irParaIndex2(){
+        return "index2?faces-redirect=true";
+
     }
 
     public Map<String, String> getNomesMap() {
