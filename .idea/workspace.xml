@@ -9,12 +9,9 @@
     <list default="true" id="174aed73-1ae9-4391-9fc3-234c19598888" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/artifacts/maratona-jsf.war/WEB-INF/classes/br/com/maratonajsf/bean/estudante/EstudanteRegistrarBean.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/maratona-jsf.war/WEB-INF/classes/br/com/maratonajsf/bean/estudante/EstudanteRegistrarBean.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/maratona-jsf.war/WEB-INF/classes/br/com/maratonajsf/model/Estudante.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/maratona-jsf.war/WEB-INF/classes/br/com/maratonajsf/model/Estudante.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/artifacts/maratona-jsf.war/index.xhtml" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/maratona-jsf.war/index.xhtml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/br/com/maratonajsf/bean/estudante/EstudanteRegistrarBean.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/br/com/maratonajsf/bean/estudante/EstudanteRegistrarBean.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/br/com/maratonajsf/model/Estudante.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/br/com/maratonajsf/model/Estudante.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/classes/br/com/maratonajsf/bean/estudante/EstudanteRegistrarBean.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/br/com/maratonajsf/bean/estudante/EstudanteRegistrarBean.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/br/com/maratonajsf/model/Estudante.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/br/com/maratonajsf/model/Estudante.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/web/index.xhtml" beforeDir="false" afterPath="$PROJECT_DIR$/web/index.xhtml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -39,17 +36,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/web/index.xhtml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="296">
-              <caret line="124" column="26" selection-start-line="124" selection-start-column="26" selection-end-line="124" selection-end-column="26" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/web/index2.xhtml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="216">
-              <caret line="9" column="9" selection-start-line="9" selection-start-column="9" selection-end-line="9" selection-end-column="9" />
+            <state relative-caret-position="406">
+              <caret line="161" lean-forward="true" selection-start-line="161" selection-end-line="161" />
             </state>
           </provider>
         </entry>
@@ -57,14 +45,17 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/br/com/maratonajsf/bean/estudante/EstudanteRegistrarBean.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="53">
-              <caret line="77" column="30" selection-start-line="77" selection-start-column="30" selection-end-line="77" selection-end-column="30" />
+            <state relative-caret-position="1099">
+              <caret line="84" column="61" selection-start-line="84" selection-start-column="61" selection-end-line="84" selection-end-column="61" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#2183#2184#0" expanded="true" />
-                <element signature="e#2217#2218#0" expanded="true" />
-                <element signature="e#2272#2273#0" expanded="true" />
-                <element signature="e#2318#2319#0" expanded="true" />
+                <element signature="method#executar#2;class#EstudanteRegistrarBean#0" />
+                <element signature="method#executarRetorno#1;class#EstudanteRegistrarBean#0" />
+                <element signature="method#exibirNotas#0;class#EstudanteRegistrarBean#0" />
+                <element signature="method#esconderNotas#0;class#EstudanteRegistrarBean#0" />
+                <element signature="method#exibir#0;class#EstudanteRegistrarBean#0" />
+                <element signature="method#esconderNotas#1;class#EstudanteRegistrarBean#0" />
+                <element signature="method#calcularCubo#0;class#EstudanteRegistrarBean#0" />
               </folding>
             </state>
           </provider>
@@ -133,8 +124,8 @@
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-62" />
-    <option name="y" value="-26" />
+    <option name="x" value="-180" />
+    <option name="y" value="-20" />
     <option name="width" value="1296" />
     <option name="height" value="1000" />
   </component>
@@ -180,7 +171,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1548801768844" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1548807015187" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="project.structure.last.edited" value="Artifacts" />
@@ -295,12 +286,12 @@
       <workItem from="1548728465051" duration="1786000" />
       <workItem from="1548730285367" duration="109000" />
       <workItem from="1548730425825" duration="1024000" />
-      <workItem from="1548787709727" duration="5784000" />
+      <workItem from="1548787709727" duration="8591000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="13305000" />
+    <option name="totallyTimeSpent" value="16112000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -407,13 +398,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="437">
-          <caret line="39" column="19" selection-start-line="39" selection-start-column="19" selection-end-line="39" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/br/com/maratonajsf/model/Estudante.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="144">
@@ -421,17 +405,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/br/com/maratonajsf/bean/estudante/EstudanteRegistrarBean.java">
+    <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="53">
-          <caret line="77" column="30" selection-start-line="77" selection-start-column="30" selection-end-line="77" selection-end-column="30" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#2183#2184#0" expanded="true" />
-            <element signature="e#2217#2218#0" expanded="true" />
-            <element signature="e#2272#2273#0" expanded="true" />
-            <element signature="e#2318#2319#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="437">
+          <caret line="39" column="19" selection-start-line="39" selection-start-column="19" selection-end-line="39" selection-end-column="19" />
         </state>
       </provider>
     </entry>
@@ -442,10 +419,27 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/br/com/maratonajsf/bean/estudante/EstudanteRegistrarBean.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1099">
+          <caret line="84" column="61" selection-start-line="84" selection-start-column="61" selection-end-line="84" selection-end-column="61" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="method#executar#2;class#EstudanteRegistrarBean#0" />
+            <element signature="method#executarRetorno#1;class#EstudanteRegistrarBean#0" />
+            <element signature="method#exibirNotas#0;class#EstudanteRegistrarBean#0" />
+            <element signature="method#esconderNotas#0;class#EstudanteRegistrarBean#0" />
+            <element signature="method#exibir#0;class#EstudanteRegistrarBean#0" />
+            <element signature="method#esconderNotas#1;class#EstudanteRegistrarBean#0" />
+            <element signature="method#calcularCubo#0;class#EstudanteRegistrarBean#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/web/index.xhtml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="296">
-          <caret line="124" column="26" selection-start-line="124" selection-start-column="26" selection-end-line="124" selection-end-column="26" />
+        <state relative-caret-position="406">
+          <caret line="161" lean-forward="true" selection-start-line="161" selection-end-line="161" />
         </state>
       </provider>
     </entry>
